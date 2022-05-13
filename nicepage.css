@@ -37899,11 +37899,20 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 951px;
+  }
+
   .u-footer .u-social-icons-1 {
-    margin-right: 6px;
+    width: 113px;
+    min-width: 94px;
+    margin-top: 8px;
+    margin-right: 31px;
   }
 
   .u-footer .u-image-1 {
+    margin-top: -10px;
+    margin-bottom: 60px;
     margin-left: 8px;
   }
 }
